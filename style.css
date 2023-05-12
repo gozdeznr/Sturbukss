@@ -8,6 +8,7 @@
     font-family: 'Poppins', sans-serif;
 }
 
+
 section {
     position: relative;
     width: 100%;
@@ -50,6 +51,7 @@ header ul li a{
     margin-left: 40px;
     text-decoration: none;
 }
+
 
 .content{
     position: relative;
@@ -157,4 +159,10 @@ header ul li a{
     height: 100%;
     background: #017143;
     clip-path: circle(600px at right 800px);
+}
+
+footer {
+    font-size: 10px;
+    color: #fff;
+    background-color: #017143;
 }
